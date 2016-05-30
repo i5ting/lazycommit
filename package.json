@@ -8,7 +8,8 @@
     "lc": "./bin/lc",
     "ld": "./bin/ld",
     "lp": "./bin/lp",
-    "gs": "./bin/gs"
+    "gs": "./bin/gs",
+    "p": "./bin/p"
   },
   "main": "index.js",
   "scripts": {
