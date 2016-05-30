@@ -1,1 +1,2 @@
+#! /bin/bash
 eval `git add . && git commit -am 'lazycommmit add file, please ignore'`
