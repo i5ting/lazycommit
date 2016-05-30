@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i5ting/lazycommmit.git"
+    "url": "git+https://github.com/i5ting/lazycommit.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "i5ting",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/i5ting/lazycommmit/issues"
+    "url": "https://github.com/i5ting/lazycommit/issues"
   },
-  "homepage": "https://github.com/i5ting/lazycommmit#readme"
+  "homepage": "https://github.com/i5ting/lazycommit#readme"
 }
