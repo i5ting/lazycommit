@@ -1,2 +1,1 @@
-npm config set sign-git-tag true
 npm version ${1:-patch}
