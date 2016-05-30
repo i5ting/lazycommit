@@ -4,9 +4,9 @@
   "description": "",
   "preferGlobal": "true",
   "bin": {
-    "lc": "git commit -am 'lazycommmit, please ignore'",
-    "ld": "git diff",
-    "lp": "git commit -am 'lazycommmit, please ignore' && git push",
+    "lc": "./bin/lc",
+    "ld": "./bin/ld",
+    "lp": "./bin/lp"
   },
   "main": "index.js",
   "scripts": {
