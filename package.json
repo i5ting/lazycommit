@@ -1,6 +1,6 @@
 {
   "name": "lazycommmit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "preferGlobal": "true",
   "bin": {
@@ -10,7 +10,6 @@
     "lp": "./bin/pull",
     "pull": "./bin/pull",
     "gs": "./bin/gs",
-    "pull": "./bin/pull",
     "p": "./bin/p",
     "version": "./bin/version",
     "v": "./bin/version"
