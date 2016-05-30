@@ -1,4 +1,10 @@
-# lazycommmit
+# lazycommit
+
+## Install
+
+```
+$ [sudo] npm i -g lazycommit
+```
 
 ## lc
 
