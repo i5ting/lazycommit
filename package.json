@@ -7,7 +7,8 @@
     "lca": "./bin/la",
     "lc": "./bin/lc",
     "ld": "./bin/ld",
-    "lp": "./bin/lp",
+    "lp": "./bin/pull",
+    "pull": "./bin/pull",
     "gs": "./bin/gs",
     "pull": "./bin/pull",
     "p": "./bin/p"
