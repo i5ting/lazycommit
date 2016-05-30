@@ -11,7 +11,9 @@
     "pull": "./bin/pull",
     "gs": "./bin/gs",
     "pull": "./bin/pull",
-    "p": "./bin/p"
+    "p": "./bin/p",
+    "version": "./bin/version",
+    "v": "./bin/version"
   },
   "main": "index.js",
   "scripts": {
