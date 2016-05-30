@@ -11,6 +11,7 @@
     "pull": "./bin/pull",
     "gs": "./bin/gs",
     "p": "./bin/p",
+    "push": "./bin/push",
     "version": "./bin/version",
     "v": "./bin/version"
   },
