@@ -4,6 +4,7 @@
   "description": "",
   "preferGlobal": "true",
   "bin": {
+    "la": "./bin/la",
     "lc": "./bin/lc",
     "ld": "./bin/ld",
     "lp": "./bin/lp"
