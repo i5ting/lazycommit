@@ -9,6 +9,7 @@
     "ld": "./bin/ld",
     "lp": "./bin/lp",
     "gs": "./bin/gs",
+    "pull": "./bin/pull",
     "p": "./bin/p"
   },
   "main": "index.js",
