@@ -15,7 +15,7 @@
     "push": "./bin/push",
     "version": "./bin/version",
     "v": "./bin/version",
-    "vp": "./bin/version"
+    "vp": "./bin/vp"
   },
   "main": "index.js",
   "scripts": {

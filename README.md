@@ -34,6 +34,17 @@ v = version
 v [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
 ``` 
 
+
+## version publish
+
+run in package dir
+ 
+```
+vp 
+
+vp [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
+``` 
+
 ## pull 
 
 pull = git pull
