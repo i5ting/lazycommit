@@ -1,6 +1,6 @@
 {
   "name": "lazycommit",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "description": "",
   "preferGlobal": "true",
   "bin": {
