@@ -1,1 +1,2 @@
-npm version ${1:-patch} && eval npm publish . ----registry=https://registry.npmjs.org/
+npm version ${1:-patch} 
+eval npm publish . ----registry=https://registry.npmjs.org/
