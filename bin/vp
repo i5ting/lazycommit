@@ -1,3 +1,5 @@
+eval git add . && git commit -am 'version publish commmit, please ignore'
+
 npm version ${1:-patch} 
 
-npm publish . ----registry=https://registry.npmjs.org/
+eval npm publish . ----registry=https://registry.npmjs.org/
