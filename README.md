@@ -35,7 +35,7 @@ v [<newversion> | major | minor | patch | premajor | preminor | prepatch | prere
 ``` 
 
 
-## version publish
+## version bump &&  publish
 
 run in package dir
  
@@ -53,6 +53,6 @@ pull = git pull
 
 push = git push
 
-## p
+## publish
 
 p = eval npm publish . ----registry=https://registry.npmjs.org/
