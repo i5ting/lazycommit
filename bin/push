@@ -1,2 +1,2 @@
-git commit -am 'lazycommmit, please ignore'
+eval git add . && git commit -am 'lazy push commmit, please ignore'
 git push
