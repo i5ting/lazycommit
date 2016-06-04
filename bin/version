@@ -1,1 +1,1 @@
-npm version ${1:-patch}
+# npm version ${1:-patch}
