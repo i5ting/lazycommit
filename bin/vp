@@ -1,1 +1,1 @@
-npm version ${1:-patch} && npm publish . ----registry=https://registry.npmjs.org/
+npm version ${1:-patch} && echo 'ss' && npm publish . ----registry=https://registry.npmjs.org/
