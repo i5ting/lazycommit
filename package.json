@@ -6,6 +6,7 @@
   "bin": {
     "lca": "./bin/la",
     "lc": "./bin/lc",
+    "refact": "./bin/refact",
     "ld": "./bin/ld",
     "lp": "./bin/pull",
     "pull": "./bin/pull",
