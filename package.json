@@ -15,7 +15,16 @@
     "push": "./bin/push",
     "version": "./bin/version",
     "v": "./bin/version",
-    "vp": "./bin/vp"
+    "vp": "./bin/vp",
+    "nf": "./bin/nf",
+    "ni": "./bin/ni",
+    "nid": "./bin/nid",
+    "nig": "./bin/nig",
+    "nis": "./bin/nis",
+    "nit": "./bin/nit",
+    "nk": "./bin/nk",
+    "nr": "./bin/nr",
+    "nt": "./bin/nt"
   },
   "main": "index.js",
   "scripts": {
