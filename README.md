@@ -53,6 +53,12 @@ pull = git pull
 
 push = git push
 
+## push tags
+
+```
+$ pt 
+```
+
 ## publish
 
 p = eval npm publish . ----registry=https://registry.npmjs.org/
