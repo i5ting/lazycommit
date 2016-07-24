@@ -8,21 +8,39 @@ $ [sudo] npm i -g lazycommit
 
 ## lc
 
-lc = git commit -am 'lazycommmit, please ignore'
-
-## lca
-
-lca = eval git add . && git commit -am 'lazycommmit add file, please ignore'
-
+```
+$ lc = git commit -am 'lazycommmit, please ignore'
+```
 
 ## ld
 
-ld = git diff
+```
+$ ld = git commit -am 'lazy doc, please ignore'
+```
+
+## lca
+
+```
+$ lca = eval git add . && git commit -am 'lazycommmit add file, please ignore'
+```
+
+## gd
+
+```
+$ ld = git diff
+```
 
 ## gs
 
-gs = git status
+```
+$ gs = git status
+```
 
+## gs
+
+```
+$ gs = git status
+```
 
 ## version
 
@@ -33,7 +51,6 @@ v = version
 
 v [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
 ``` 
-
 
 ## version bump &&  publish
 
@@ -47,11 +64,15 @@ vp [<newversion> | major | minor | patch | premajor | preminor | prepatch | prer
 
 ## pull 
 
-pull = git pull
+```
+$ pull = git pull
+```
 
 ## push
 
-push = git push
+```
+$ push = git push
+```
 
 ## push tags
 
@@ -61,7 +82,9 @@ $ pt
 
 ## publish
 
-p = eval npm publish . ----registry=https://registry.npmjs.org/
+```
+$ p = eval npm publish . ----registry=https://registry.npmjs.org/
+```
 
 ## npm alias
 
