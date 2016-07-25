@@ -70,6 +70,14 @@ vp
 vp [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
 ``` 
 
+## n
+
+快速npm init
+
+```
+$ n = npm init -y
+```
+
 ## pull 
 
 ```
