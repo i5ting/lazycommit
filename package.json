@@ -8,6 +8,7 @@
     "lc": "./bin/lc",
     "li": "./bin/li",
     "doc": "./bin/doc",
+    "review": "./bin/review",
     "refact": "./bin/refact",
     "ld": "./bin/ld",
     "lp": "./bin/pull",
