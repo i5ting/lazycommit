@@ -8,6 +8,8 @@
     "lc": "./bin/lc",
     "li": "./bin/li",
     "doc": "./bin/doc",
+    "cache": "./bin/cache",
+    "stash": "./bin/stash",
     "review": "./bin/review",
     "refact": "./bin/refact",
     "ld": "./bin/ld",
