@@ -19,6 +19,7 @@
     "gd": "./bin/gd",
     "p": "./bin/p",
     "pt": "./bin/pt",
+    "i5ting": "./bin/i5ting",
     "n": "./bin/n",
     "push": "./bin/push",
     "version": "./bin/version",
